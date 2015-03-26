@@ -14,6 +14,8 @@ image:
   related:"/images/bryant2.jpg")
 ---
 
+<a href="https://github.com/mdlee12/Kris-Bryant-Projection"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://s3.amazonaws.com/github/ribbons/forkme_right_darkblue_121621.png" alt="Fork me on GitHub"></a>
+
 A dynamic rCharts visualization displaying performance projections for Kris Bryant based on his 10 most similar career MiLB comparable players. Read more at <http://middlee.com/milb-similarity-scores/>.
 
 You can change the y-axis parameters by selecting the performance measure you'd like to visualize. Additionally, hover over the points to see player details, and select players in the legend to show or remove their data from the graph.
@@ -65,3 +67,5 @@ bryant$save('bryant.html')
 </table></div></p>
 
 Be sure to bookmark my site to check out future visualizations!
+
+Fork my repository at  <https://github.com/mdlee12/Kris-Bryant-Projection> to check out the R script details!
