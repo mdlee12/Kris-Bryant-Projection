@@ -9,9 +9,9 @@ github:
 output:
   html_document: default
 image:
-  feature:"/home/michael/mdlee12.github.com/mdlee12.github.com/images/bryant2.jpg")
-  teaser:"/home/michael/mdlee12.github.com/mdlee12.github.com/images/bryant2.jpg")
-  related:"/home/michael/mdlee12.github.com/mdlee12.github.com/images/bryant2.jpg")
+  feature:"/images/bryant2.jpg")
+  teaser:"/images/bryant2.jpg")
+  related:"/images/bryant2.jpg")
 ---
 
 A dynamic rCharts visualization displaying performance projections for Kris Bryant based on his 10 most similar career MiLB comparable players. Read more at <http://middlee.com/milb-similarity-scores/>.
